@@ -6,9 +6,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amirhossein-dourodian/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://huggingface.co/Amirkhan184"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-  <a href="mailto:ahdourodian@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a></p>
+  <a href="https://www.linkedin.com/in/amirhossein-dourodian/">LinkedIn</a>
+  •
+  <a href="https://huggingface.co/Amirkhan184">Hugging Face</a>
+  •
+  <a href="mailto:ahdourodian@gmail.com">Email</a>
+</p>
 
 ---
 
