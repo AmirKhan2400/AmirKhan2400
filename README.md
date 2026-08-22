@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Amirhossein Dourodian 👋</h1>
+# Hi, I'm Amirhossein Dourodian 👋
 
 <p align="center">
   <strong>Applied AI Engineer</strong><br>
-  Building production-ready LLM applications with LangGraph, RAG, and fine-tuned language models.
+  Building production-ready AI applications with LLMs, backend systems, and intelligent workflows.
 </p>
 
 <p align="center">
@@ -17,22 +17,24 @@
 
 ## About Me
 
-I build intelligent applications powered by Large Language Models (LLMs), with a focus on reliable workflows, semantic retrieval, and model fine-tuning.
+I build intelligent applications powered by AI and Large Language Models (LLMs), with a focus on reliable workflows, backend engineering, semantic retrieval, and model fine-tuning.
 
 My current interests include:
 
-- Large Language Models (LLMs)
-- Agentic AI
-- LangGraph
-- Retrieval-Augmented Generation (RAG)
-- Model Fine-tuning
-- AI Evaluation
+* Large Language Models (LLMs)
+* Agentic AI
+* LangGraph
+* Retrieval-Augmented Generation (RAG)
+* Model Fine-tuning
+* AI Evaluation
+* Backend Engineering for AI Systems
+* Production AI Applications
 
 Previously, I worked as a Unity game developer, where I built educational and multiplayer applications before transitioning into AI engineering.
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### Smart Support AI
 
@@ -40,38 +42,88 @@ An end-to-end customer support AI system that combines workflow orchestration, s
 
 **Highlights**
 
-- LangGraph multi-step workflow orchestration
-- Fine-tuned Qwen2.5-1.5B using QLoRA
-- Retrieval-Augmented Generation (RAG)
-- FAISS vector search
-- Intent classification
-- Evaluation pipeline with performance metrics
-- Open-source implementation
+* LangGraph multi-step workflow orchestration
+* Fine-tuned Qwen2.5-1.5B using QLoRA
+* Retrieval-Augmented Generation (RAG)
+* FAISS vector search
+* Intent classification
+* Evaluation pipeline with performance metrics
+* Open-source implementation
 
-[**Repository**](https://github.com/AmirKhan2400/smart-support-ai)
+**Links**
 
-[**Model**](https://huggingface.co/Amirkhan184/Qwen2.5-1.5B-Instruct-Intent-Classifier-QLoRA)
+* Repository: https://github.com/AmirKhan2400/smart-support-ai
+* Model: https://huggingface.co/Amirkhan184/Qwen2.5-1.5B-Instruct-Intent-Classifier-QLoRA
+
+---
+
+### Job Market Analyzer
+
+An AI-powered application that analyzes job postings, extracts structured information, evaluates skill matches, and helps identify learning priorities based on market demand.
+
+**Highlights**
+
+* FastAPI backend architecture
+* PostgreSQL database integration
+* SQLAlchemy ORM
+* AI-powered job analysis
+* Candidate-job matching system
+* Profile-driven recommendations
+* Provider abstraction for multiple AI models
+* Automated testing with Pytest
+* Dockerized deployment
+* Clean Architecture principles
+
+**Technologies**
+
+Python • FastAPI • PostgreSQL • SQLAlchemy • Pytest • Docker • Gemini • OpenRouter
+
+**Links**
+
+* Repository: https://github.com/AmirKhan2400/job-market-analyzer
 
 ---
 
 ## Technical Stack
 
-**Languages**
+### Languages
 
 Python • C# • Java
 
-**AI & Machine Learning**
+### AI & Machine Learning
 
 PyTorch • Transformers • LoRA • QLoRA
 
-**LLM Technologies**
+### LLM Technologies
 
 LangChain • LangGraph • RAG
 
-**Vector Search**
+### Backend
+
+FastAPI • SQLAlchemy • PostgreSQL • REST APIs
+
+### Vector Search
 
 FAISS • Sentence Transformers
 
-**Tools**
+### Tools
 
-Git • GitHub • Hugging Face • VS Code
+Git • GitHub • Docker • Hugging Face • VS Code
+
+---
+
+## Current Focus
+
+* Building production-ready AI applications
+* Backend engineering for AI systems
+* LLM evaluation and optimization
+* AI deployment and DevOps
+* Learning scalable software architecture
+
+---
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/amirhossein-dourodian/
+* Hugging Face: https://huggingface.co/Amirkhan184
+* Email: [ahdourodian@gmail.com](mailto:ahdourodian@gmail.com)
