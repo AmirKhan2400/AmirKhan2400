@@ -52,8 +52,8 @@ An end-to-end customer support AI system that combines workflow orchestration, s
 
 **Links**
 
-* Repository: https://github.com/AmirKhan2400/smart-support-ai
-* Model: https://huggingface.co/Amirkhan184/Qwen2.5-1.5B-Instruct-Intent-Classifier-QLoRA
+* [Repository](https://github.com/AmirKhan2400/smart-support-ai)
+* [Model](https://huggingface.co/Amirkhan184/Qwen2.5-1.5B-Instruct-Intent-Classifier-QLoRA)
 
 ---
 
@@ -80,7 +80,7 @@ Python • FastAPI • PostgreSQL • SQLAlchemy • Pytest • Docker • Gemin
 
 **Links**
 
-* Repository: https://github.com/AmirKhan2400/job-market-analyzer
+* [Repository](https://github.com/AmirKhan2400/job-market-analyzer)
 
 ---
 
@@ -124,6 +124,6 @@ Git • GitHub • Docker • Hugging Face • VS Code
 
 ## Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/amirhossein-dourodian/
-* Hugging Face: https://huggingface.co/Amirkhan184
-* Email: [ahdourodian@gmail.com](mailto:ahdourodian@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/amirhossein-dourodian/)
+* [Hugging Face](https://huggingface.co/Amirkhan184)
+* [Email](mailto:ahdourodian@gmail.com)
