@@ -59,28 +59,34 @@ An end-to-end customer support AI system that combines workflow orchestration, s
 
 ### Job Market Analyzer
 
-An AI-powered application that analyzes job postings, extracts structured information, evaluates skill matches, and helps identify learning priorities based on market demand.
+An AI-powered full-stack application that analyzes job postings, extracts structured information, evaluates skill matches, identifies learning priorities, and provides benchmark-driven model routing based on real evaluation results.
 
 **Highlights**
 
-* FastAPI backend architecture
-* PostgreSQL database integration
-* SQLAlchemy ORM
-* AI-powered job analysis
-* Candidate-job matching system
-* Profile-driven recommendations
-* Provider abstraction for multiple AI models
-* Automated testing with Pytest
-* Dockerized deployment
-* Clean Architecture principles
+- FastAPI backend architecture
+- React + TypeScript frontend
+- PostgreSQL database integration
+- SQLAlchemy ORM
+- AI-powered job analysis
+- Candidate-job matching system
+- Profile-driven recommendations
+- Anonymous per-visitor analysis history
+- Provider abstraction for multiple AI models
+- Requesty and OpenRouter routing support
+- LLM evaluation and benchmarking subsystem
+- Benchmark-based model policy/preset selection
+- Automated testing with Pytest
+- Dockerized backend deployment
+- GitHub Pages-ready frontend
+- Clean Architecture principles
 
 **Technologies**
 
-Python • FastAPI • PostgreSQL • SQLAlchemy • Pytest • Docker • Gemini • OpenRouter
+Python • FastAPI • React • TypeScript • Vite • Tailwind CSS • PostgreSQL • SQLAlchemy • Pytest • Docker • Requesty • OpenRouter • LLM Evaluation
 
 **Links**
 
-* [Repository](https://github.com/AmirKhan2400/job-market-analyzer)
+- [Repository](https://github.com/AmirKhan2400/job-market-analyzer)
 
 ---
 
