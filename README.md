@@ -1,56 +1,135 @@
-# AmirHossein Dourodian — personal portfolio
+# Hi, I'm Amirhossein Dourodian 👋
 
-A static, responsive Noir Sidebar portfolio built with React, TypeScript, Vite, plain CSS, and Lucide React. No backend or client-side router is needed.
+<p align="center">
+  <strong>Applied AI Engineer</strong><br>
+  Building production-ready AI applications with LLMs, backend systems, and intelligent workflows.
+</p>
 
-## Develop
+<p align="center">
+  <a href="https://www.linkedin.com/in/amirhossein-dourodian/">LinkedIn</a>
+  •
+  <a href="https://huggingface.co/Amirkhan184">Hugging Face</a>
+  •
+  <a href="mailto:ahdourodian@gmail.com">Email</a>
+</p>
 
-Use Node.js 22 LTS and npm.
+---
 
-```sh
-npm ci
-npm run dev
-```
+## About Me
 
-## Build and preview
+I build intelligent applications powered by AI and Large Language Models (LLMs), with a focus on reliable workflows, backend engineering, semantic retrieval, and model fine-tuning.
 
-```sh
-npm run build
-npm run preview
-```
+My current interests include:
 
-The build runs strict TypeScript checks and produces the static site in `dist/`.
+* Large Language Models (LLMs)
+* Agentic AI
+* LangGraph
+* Retrieval-Augmented Generation (RAG)
+* Model Fine-tuning
+* AI Evaluation
+* Backend Engineering for AI Systems
+* Production AI Applications
 
-## Edit content
+Previously, I worked as a Unity game developer, where I built educational and multiplayer applications before transitioning into AI engineering.
 
-| Content                                                        | File                      |
-| -------------------------------------------------------------- | ------------------------- |
-| Name, title, social links, photo                               | `src/data/profile.ts`     |
-| Projects, technology lists, repository and optional demo links | `src/data/projects.ts`    |
-| Experience entries                                             | `src/data/experience.ts`  |
-| Skill groups                                                   | `src/data/skills.ts`      |
-| Intro copy                                                     | `src/components/Hero.tsx` |
-| Colors, typography, spacing, responsive rules                  | `src/styles/global.css`   |
+---
 
-Before publishing your final portfolio:
+## Featured Projects
 
-- Email and LinkedIn are configured in `profile.ts`; edit them there if they change.
-- The primary "Let's work together" button opens an email to the address in `profile.ts`.
-- Your sidebar photo is `public/profile.jpg`. Replace that file to update it.
-- Optionally add project screenshots to `public/` and set each project's `image` to its relative filename. Built-in concept previews are illustrative placeholders, not screenshots.
-- Neuroland uses the supplied Google Play developer link. Optional project `github` and `demo` URLs can be added in `projects.ts`.
+### Smart Support AI
 
-Use public asset filenames without a leading slash. Components prefix them with Vite's base URL for compatibility with repository subpaths.
+An end-to-end customer support AI system that combines workflow orchestration, semantic retrieval, and fine-tuned language models.
 
-## Deploy to GitHub Pages
+**Highlights**
 
-1. Create a GitHub repository (for example `AmirKhan2400.github.io`) and push this project to its `main` branch, including `package-lock.json`.
-2. In **Settings → Pages → Build and deployment**, choose **GitHub Actions** as the source.
-3. Push to `main`, or run **Deploy portfolio to GitHub Pages** manually from the Actions tab.
+* LangGraph multi-step workflow orchestration
+* Fine-tuned Qwen2.5-1.5B using QLoRA
+* Retrieval-Augmented Generation (RAG)
+* FAISS vector search
+* Intent classification
+* Evaluation pipeline with performance metrics
+* Open-source implementation
 
-The workflow installs the locked dependencies, typechecks, builds, uploads only `dist/`, and deploys using GitHub's official Pages actions. The deployment job reports the published URL.
+**Links**
 
-`base: './'` in `vite.config.ts` supports both `https://AmirKhan2400.github.io/` and `https://AmirKhan2400.github.io/repository-name/`. Section navigation uses URL hashes, so no SPA rewrite or 404 workaround is needed. If your default branch has another name, update the workflow's branch filter.
+* [Repository](https://github.com/AmirKhan2400/smart-support-ai)
+* [Model](https://huggingface.co/Amirkhan184/Qwen2.5-1.5B-Instruct-Intent-Classifier-QLoRA)
 
-Google Fonts supplies DM Sans and Manrope, with local sans-serif fallbacks. All other runtime assets are served from the static build. Motion respects the visitor's reduced-motion setting.
+---
 
-Workflow reference: [GitHub's custom Pages workflow documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+### Job Market Analyzer
+
+An AI-powered full-stack application that analyzes job postings, extracts structured information, evaluates skill matches, identifies learning priorities, and provides benchmark-driven model routing based on real evaluation results.
+
+**Highlights**
+
+- FastAPI backend architecture
+- React + TypeScript frontend
+- PostgreSQL database integration
+- SQLAlchemy ORM
+- AI-powered job analysis
+- Candidate-job matching system
+- Profile-driven recommendations
+- Anonymous per-visitor analysis history
+- Provider abstraction for multiple AI models
+- Requesty and OpenRouter routing support
+- LLM evaluation and benchmarking subsystem
+- Benchmark-based model policy/preset selection
+- Automated testing with Pytest
+- Dockerized backend deployment
+- GitHub Pages-ready frontend
+- Clean Architecture principles
+
+**Technologies**
+
+Python • FastAPI • React • TypeScript • Vite • Tailwind CSS • PostgreSQL • SQLAlchemy • Pytest • Docker • Requesty • OpenRouter • LLM Evaluation
+
+**Links**
+
+- [Repository](https://github.com/AmirKhan2400/job-market-analyzer)
+
+---
+
+## Technical Stack
+
+### Languages
+
+Python • C# • Java
+
+### AI & Machine Learning
+
+PyTorch • Transformers • LoRA • QLoRA
+
+### LLM Technologies
+
+LangChain • LangGraph • RAG
+
+### Backend
+
+FastAPI • SQLAlchemy • PostgreSQL • REST APIs
+
+### Vector Search
+
+FAISS • Sentence Transformers
+
+### Tools
+
+Git • GitHub • Docker • Hugging Face • VS Code
+
+---
+
+## Current Focus
+
+* Building production-ready AI applications
+* Backend engineering for AI systems
+* LLM evaluation and optimization
+* AI deployment and DevOps
+* Learning scalable software architecture
+
+---
+
+## Connect With Me
+
+* [LinkedIn](https://www.linkedin.com/in/amirhossein-dourodian/)
+* [Hugging Face](https://huggingface.co/Amirkhan184)
+* [Email](mailto:ahdourodian@gmail.com)
